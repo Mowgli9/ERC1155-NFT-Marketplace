@@ -1,3 +1,6 @@
+# Take a tour : 
+    https://gameitem.netlify.app/getfreeitem
+
 # Disclaimer
 
     - For educational purpose only, I created this project to improve my skills in web3 development using Solidity, Hardhat, Ethers, Bootstrap, HTML, CSS.
