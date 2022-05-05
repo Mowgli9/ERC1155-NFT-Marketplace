@@ -1,0 +1,58 @@
+.nav-items{
+    padding-left: 20%;
+}
+
+.nav-item{
+    padding-left:10px ;
+}
+
+
+.button-wallet{
+   margin-left:50px ;
+}
+
+.first-container{
+    margin-top: 50px;
+}
+
+.text-col{
+    text-align: center;
+    margin-top: 10%;
+   
+}
+.img-first{
+    margin-top: 5%;
+}
+.second-container{
+    margin-top: 20px;
+}
+.live-auction{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.address-row{
+    text-align: center;
+    font-size: medium;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.span_address{
+    font-size: large;
+    font-weight: bolder;
+}
+.inventory-row{
+    padding-bottom: 10px;
+
+}
+.invontory-title{
+    font-size: large;
+    font-weight: 900;
+}
+.inventoryFilter{
+    padding-left: 13px;
+}
+
+.mintfree{
+    text-align: center;
+}
