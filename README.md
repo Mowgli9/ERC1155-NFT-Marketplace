@@ -3,6 +3,7 @@
     - For educational purpose only, I created this project to improve my skills in web3 development using Solidity, Hardhat, Ethers, Bootstrap, HTML, CSS.
     If you have a question about something you couldn't understand, or you need a help to fix something, or even you have some additional features please contact me Mowgli#7713 or TG : @mowgli_9.
     I'm looking for a real project or a job in a company ^^.
+    
 
 # Overview
 
@@ -24,6 +25,9 @@
             You can withdraw your bids only if you're not the highest bidder.
             Anybody can end the auction when the time passed.
 
+![This is an image](test/READMEIMG/freemint.PNG)
+
+
 # Guide
 
     First, you need to connect your Metamask wallet, you mint a free NFT.
@@ -34,6 +38,8 @@
     When you put NFT in auction, you can see it < my Auctions>.
     When you bid, you can see the auction <Bade Auction>.
     You can withdraw your funds in an auction only when you're not the highest bidder.
+![This is an image](test/READMEIMG/filter.PNG)
+
 
 # Smart Contract :
 
@@ -42,3 +48,6 @@
     All functions in the smart contract are explained using comments (I tried the max ^^').
     Please, if you have a question, contact me on : DS = Mowgli#7713 or TG = @mowgli_9.
     Smart contract passed 33 different test.
+    
+ ![This is an image](test/READMEIMG/alltestnoy2.PNG)
+ 
