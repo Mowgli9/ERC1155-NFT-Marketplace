@@ -1,3 +1,7 @@
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract, It was only for me to learn more about Solidity ` Who the f* wrote this smart contract 😆😆😆😆 `
+
+
+
 # Take a tour : 
     https://gameitem.netlify.app/getfreeitem
 
